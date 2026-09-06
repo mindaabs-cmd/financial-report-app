@@ -4,5 +4,5 @@ numpy
 openpyxl
 plotly
 reportlab
-arabic-reshaper
+arabic_reshaper
 python-bidi
