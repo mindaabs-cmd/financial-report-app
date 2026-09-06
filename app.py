@@ -1,6 +1,5 @@
 import io
 import os
-import arabic_reshaper
 from bidi.algorithm import get_display
 import pandas as pd
 import plotly.express as px
